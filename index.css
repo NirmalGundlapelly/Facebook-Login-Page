@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-container {
+    font-family: Roboto;
+}
+
+.facebook-logo {
+    width: 40%;
+}
+
+.form-card {
+    width: 65vw;
+    height: 60vh;
+    border-radius: 10px;
+}
+
+.login-text {
+    font-size: 29px;
+}
+
+.email-form-input {
+    margin-top: 20px;
+    width: 55vw;
+    height: 8vh;
+    border: #e6f0e9 solid 1px;
+    font-size: 20px;
+    padding: 15px;
+    color: #f5faf6;
+    border-radius: 10px;
+}
+
+.log-in-button {
+    width: 55vw;
+    height: 8vh;
+    font-size: 25px;
+}
+
+.link_text {
+    font-size: 20px;
+}
+
+.dot {
+    color: #b3bab5;
+    padding: 5px;
+}
